@@ -27,7 +27,7 @@
 // default : 정수 - int , 실수 - double
 
 
-package com.choics.lang.ch02
+package com.choics.lang.ch02;
 
 public class Exam0008 {
 	
