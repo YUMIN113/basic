@@ -23,5 +23,11 @@ public class Exam0005 {
 		System.out.println("" + 7); // "7" 출력
 		System.out.println("" + 7 + 7); // "77" 출력
 	  System.out.println(7 + 7 + ""); // "14" 출력
+
+		String s3 = "ABCD";
+		String s4 = "1234";
+    String s5 = s3 + s4;
+
+		System.out.println(s5);
 	}
 }
