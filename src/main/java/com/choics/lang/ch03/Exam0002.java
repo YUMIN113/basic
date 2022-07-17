@@ -44,7 +44,7 @@ public class Exam0002 {
 
 		a = -10;
 		a = -a;
-		
+
 		System.out.println(a); // 10 출력
 
  	}	
